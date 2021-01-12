@@ -1,0 +1,493 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:2:1-181:12
+INJECTED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:2:1-181:12
+INJECTED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:2:1-181:12
+INJECTED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:2:1-181:12
+MERGED from [com.github.clans:fab:1.6.4] F:\Android\.gradle\caches\transforms-2\files-2.1\917c365cfe270a6608714e1dc12fa273\fab-1.6.4\AndroidManifest.xml:2:1-14:12
+MERGED from [com.nhaarman.listviewanimations:lib-core:3.1.0] F:\Android\.gradle\caches\transforms-2\files-2.1\b96d5e896851a45c40c0d937bfa8d134\jetified-lib-core-3.1.0\AndroidManifest.xml:17:1-29:12
+MERGED from [com.nhaarman.listviewanimations:lib-manipulation:3.1.0] F:\Android\.gradle\caches\transforms-2\files-2.1\94154d80ad0c775370a93d2f88e1d6ee\jetified-lib-manipulation-3.1.0\AndroidManifest.xml:17:1-31:12
+MERGED from [com.nhaarman.listviewanimations:lib-core-slh:3.1.0] F:\Android\.gradle\caches\transforms-2\files-2.1\8d027b8baae36d95db577f1c7188a4cf\jetified-lib-core-slh-3.1.0\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.material:material:1.2.0-alpha05] F:\Android\.gradle\caches\transforms-2\files-2.1\d356f7c579268d264f4d6ee0eb8734b3\material-1.2.0-alpha05\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] F:\Android\.gradle\caches\transforms-2\files-2.1\780dca39713ff2fcf4eadcaf494ac982\appcompat-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] F:\Android\.gradle\caches\transforms-2\files-2.1\213ad6fce5ea38e5799c707ff664b050\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [org.litepal.android:java:3.0.0] F:\Android\.gradle\caches\transforms-2\files-2.1\e2f6338b8c2d8c374671452324227e55\java-3.0.0\AndroidManifest.xml:2:1-14:12
+MERGED from [org.litepal.android:core:3.0.0] F:\Android\.gradle\caches\transforms-2\files-2.1\76ceacb664b893e9359ce86ba14afd58\jetified-core-3.0.0\AndroidManifest.xml:2:1-14:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] F:\Android\.gradle\caches\transforms-2\files-2.1\5882865abf8e9a7b08118a41615cc7c9\lifecycle-extensions-2.2.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0-alpha03] F:\Android\.gradle\caches\transforms-2\files-2.1\d8e7efb05f7dfc5b87da947764833208\swiperefreshlayout-1.1.0-alpha03\AndroidManifest.xml:17:1-24:12
+MERGED from [de.hdodenhof:circleimageview:2.2.0] F:\Android\.gradle\caches\transforms-2\files-2.1\f3aad2cd5a6890036d9d0697655f846e\jetified-circleimageview-2.2.0\AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.bumptech.glide:glide:4.8.0] F:\Android\.gradle\caches\transforms-2\files-2.1\ce6e488f2c83bc978c791f9dcc0191f9\jetified-glide-4.8.0\AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] F:\Android\.gradle\caches\transforms-2\files-2.1\129d7c6539a600a7346451cc911530ca\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] F:\Android\.gradle\caches\transforms-2\files-2.1\82e63553b4b022cfff1711ae9819aad4\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] F:\Android\.gradle\caches\transforms-2\files-2.1\727f4567341fcf59ba6ec2fbb4290436\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] F:\Android\.gradle\caches\transforms-2\files-2.1\43d28a6cb6aa3ef105d8e111681e9af4\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] F:\Android\.gradle\caches\transforms-2\files-2.1\1296f14384128f2399538597cc1f5274\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] F:\Android\.gradle\caches\transforms-2\files-2.1\89148e3dbb2482b98d2c6649d887f30f\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] F:\Android\.gradle\caches\transforms-2\files-2.1\a8ecbda6ffad5e6f54ae110042f6865e\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] F:\Android\.gradle\caches\transforms-2\files-2.1\1fa276bd61947c3e74ed195b3ad0a13b\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.2.0] F:\Android\.gradle\caches\transforms-2\files-2.1\a634c03550c7f87f645ad54e16bbb4d1\fragment-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] F:\Android\.gradle\caches\transforms-2\files-2.1\c85e1f195321245fafe1a599b5dddf47\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] F:\Android\.gradle\caches\transforms-2\files-2.1\1aafd20561bc3ee9f58c28dfa8215062\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] F:\Android\.gradle\caches\transforms-2\files-2.1\da4859f2c8e5d53f282ea268af4c5fee\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] F:\Android\.gradle\caches\transforms-2\files-2.1\3a40d00373143d317b2bee08071df362\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.1.0] F:\Android\.gradle\caches\transforms-2\files-2.1\41b8d659a9b5777956384975cf9ebd42\jetified-activity-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.2.0] F:\Android\.gradle\caches\transforms-2\files-2.1\4f3d7d743df13c1af889a0942a35670d\core-1.2.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cardview:cardview:1.0.0] F:\Android\.gradle\caches\transforms-2\files-2.1\f52122426ed85128097908a2e58f6328\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] F:\Android\.gradle\caches\transforms-2\files-2.1\fa07a23f69071fa73b12f39bbc5eac81\lifecycle-process-2.2.0\AndroidManifest.xml:17:1-32:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] F:\Android\.gradle\caches\transforms-2\files-2.1\67046010035515f936d914e446b8511c\lifecycle-service-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] F:\Android\.gradle\caches\transforms-2\files-2.1\8b5e123a9c5293fd4e2ed3fcf992930f\lifecycle-runtime-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] F:\Android\.gradle\caches\transforms-2\files-2.1\de7fec5c2bc02b5a4a193e3ed3cbac37\lifecycle-livedata-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:1.0.0] F:\Android\.gradle\caches\transforms-2\files-2.1\b11a471951626f0994c6f77cfd7b3fe7\lifecycle-viewmodel-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] F:\Android\.gradle\caches\transforms-2\files-2.1\b7f3f626304196e508da96b58da55c51\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] F:\Android\.gradle\caches\transforms-2\files-2.1\8459cf74267acbf7bf85dca1ef465d1f\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] F:\Android\.gradle\caches\transforms-2\files-2.1\bf72a15a3ccfe7bc47129422d9cddb0c\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] F:\Android\.gradle\caches\transforms-2\files-2.1\3e0dd008a853f1a70d3d0f68ab22c9b7\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] F:\Android\.gradle\caches\transforms-2\files-2.1\2c4abb3c9f84da22a9da11e175a85c23\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] F:\Android\.gradle\caches\transforms-2\files-2.1\a51a24fb531d8e9d5c26de388f6294e6\jetified-gifdecoder-4.8.0\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] F:\Android\.gradle\caches\transforms-2\files-2.1\fa40148eab14a6d2386ba091992d3749\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] F:\Android\.gradle\caches\transforms-2\files-2.1\a77c810a56173ccf6fb339f045a6aacd\annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:2:1-181:12
+INJECTED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:2:1-181:12
+INJECTED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:2:1-181:12
+	package
+		ADDED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:4:5-31
+		INJECTED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:6:5-30
+		INJECTED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:3:5-51
+	xmlns:android
+		ADDED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:5:5-28
+		INJECTED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:8:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:9:5-80
+	android:name
+		ADDED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:9:22-77
+uses-permission#com.android.launcher.permission.INSTALL_SHORTCUT
+ADDED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:10:5-88
+	android:name
+		ADDED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:10:22-85
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:11:22-64
+uses-permission#android.permission.READ_CONTACTS
+ADDED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:12:5-72
+	android:name
+		ADDED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:12:22-69
+uses-permission#android.permission.MANAGE_ACCOUNTS
+ADDED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:13:5-74
+	android:name
+		ADDED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:13:22-71
+uses-permission#android.permission.AUTHENTICATE_ACCOUNTS
+ADDED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:14:5-80
+	android:name
+		ADDED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:14:22-77
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:15:5-71
+	android:name
+		ADDED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:15:22-68
+uses-permission#android.permission.USE_CREDENTIALS
+ADDED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:16:5-74
+	android:name
+		ADDED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:16:22-71
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:17:5-81
+	android:name
+		ADDED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:17:22-78
+application
+ADDED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:19:5-179:19
+MERGED from [com.github.clans:fab:1.6.4] F:\Android\.gradle\caches\transforms-2\files-2.1\917c365cfe270a6608714e1dc12fa273\fab-1.6.4\AndroidManifest.xml:12:5-20
+MERGED from [com.github.clans:fab:1.6.4] F:\Android\.gradle\caches\transforms-2\files-2.1\917c365cfe270a6608714e1dc12fa273\fab-1.6.4\AndroidManifest.xml:12:5-20
+MERGED from [com.nhaarman.listviewanimations:lib-core:3.1.0] F:\Android\.gradle\caches\transforms-2\files-2.1\b96d5e896851a45c40c0d937bfa8d134\jetified-lib-core-3.1.0\AndroidManifest.xml:26:5-27:19
+MERGED from [com.nhaarman.listviewanimations:lib-core:3.1.0] F:\Android\.gradle\caches\transforms-2\files-2.1\b96d5e896851a45c40c0d937bfa8d134\jetified-lib-core-3.1.0\AndroidManifest.xml:26:5-27:19
+MERGED from [com.nhaarman.listviewanimations:lib-manipulation:3.1.0] F:\Android\.gradle\caches\transforms-2\files-2.1\94154d80ad0c775370a93d2f88e1d6ee\jetified-lib-manipulation-3.1.0\AndroidManifest.xml:26:5-29:19
+MERGED from [com.nhaarman.listviewanimations:lib-manipulation:3.1.0] F:\Android\.gradle\caches\transforms-2\files-2.1\94154d80ad0c775370a93d2f88e1d6ee\jetified-lib-manipulation-3.1.0\AndroidManifest.xml:26:5-29:19
+MERGED from [com.nhaarman.listviewanimations:lib-core-slh:3.1.0] F:\Android\.gradle\caches\transforms-2\files-2.1\8d027b8baae36d95db577f1c7188a4cf\jetified-lib-core-slh-3.1.0\AndroidManifest.xml:26:5-27:19
+MERGED from [com.nhaarman.listviewanimations:lib-core-slh:3.1.0] F:\Android\.gradle\caches\transforms-2\files-2.1\8d027b8baae36d95db577f1c7188a4cf\jetified-lib-core-slh-3.1.0\AndroidManifest.xml:26:5-27:19
+MERGED from [com.google.android.material:material:1.2.0-alpha05] F:\Android\.gradle\caches\transforms-2\files-2.1\d356f7c579268d264f4d6ee0eb8734b3\material-1.2.0-alpha05\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.2.0-alpha05] F:\Android\.gradle\caches\transforms-2\files-2.1\d356f7c579268d264f4d6ee0eb8734b3\material-1.2.0-alpha05\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] F:\Android\.gradle\caches\transforms-2\files-2.1\213ad6fce5ea38e5799c707ff664b050\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] F:\Android\.gradle\caches\transforms-2\files-2.1\213ad6fce5ea38e5799c707ff664b050\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [org.litepal.android:java:3.0.0] F:\Android\.gradle\caches\transforms-2\files-2.1\e2f6338b8c2d8c374671452324227e55\java-3.0.0\AndroidManifest.xml:11:5-12:19
+MERGED from [org.litepal.android:java:3.0.0] F:\Android\.gradle\caches\transforms-2\files-2.1\e2f6338b8c2d8c374671452324227e55\java-3.0.0\AndroidManifest.xml:11:5-12:19
+MERGED from [org.litepal.android:core:3.0.0] F:\Android\.gradle\caches\transforms-2\files-2.1\76ceacb664b893e9359ce86ba14afd58\jetified-core-3.0.0\AndroidManifest.xml:11:5-12:19
+MERGED from [org.litepal.android:core:3.0.0] F:\Android\.gradle\caches\transforms-2\files-2.1\76ceacb664b893e9359ce86ba14afd58\jetified-core-3.0.0\AndroidManifest.xml:11:5-12:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] F:\Android\.gradle\caches\transforms-2\files-2.1\5882865abf8e9a7b08118a41615cc7c9\lifecycle-extensions-2.2.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] F:\Android\.gradle\caches\transforms-2\files-2.1\5882865abf8e9a7b08118a41615cc7c9\lifecycle-extensions-2.2.0\AndroidManifest.xml:24:5-25:19
+MERGED from [de.hdodenhof:circleimageview:2.2.0] F:\Android\.gradle\caches\transforms-2\files-2.1\f3aad2cd5a6890036d9d0697655f846e\jetified-circleimageview-2.2.0\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:2.2.0] F:\Android\.gradle\caches\transforms-2\files-2.1\f3aad2cd5a6890036d9d0697655f846e\jetified-circleimageview-2.2.0\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.8.0] F:\Android\.gradle\caches\transforms-2\files-2.1\ce6e488f2c83bc978c791f9dcc0191f9\jetified-glide-4.8.0\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.8.0] F:\Android\.gradle\caches\transforms-2\files-2.1\ce6e488f2c83bc978c791f9dcc0191f9\jetified-glide-4.8.0\AndroidManifest.xml:10:5-20
+MERGED from [androidx.core:core:1.2.0] F:\Android\.gradle\caches\transforms-2\files-2.1\4f3d7d743df13c1af889a0942a35670d\core-1.2.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.2.0] F:\Android\.gradle\caches\transforms-2\files-2.1\4f3d7d743df13c1af889a0942a35670d\core-1.2.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] F:\Android\.gradle\caches\transforms-2\files-2.1\fa07a23f69071fa73b12f39bbc5eac81\lifecycle-process-2.2.0\AndroidManifest.xml:24:5-30:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] F:\Android\.gradle\caches\transforms-2\files-2.1\fa07a23f69071fa73b12f39bbc5eac81\lifecycle-process-2.2.0\AndroidManifest.xml:24:5-30:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] F:\Android\.gradle\caches\transforms-2\files-2.1\a51a24fb531d8e9d5c26de388f6294e6\jetified-gifdecoder-4.8.0\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] F:\Android\.gradle\caches\transforms-2\files-2.1\a51a24fb531d8e9d5c26de388f6294e6\jetified-gifdecoder-4.8.0\AndroidManifest.xml:9:5-20
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] F:\Android\.gradle\caches\transforms-2\files-2.1\fa40148eab14a6d2386ba091992d3749\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] F:\Android\.gradle\caches\transforms-2\files-2.1\fa40148eab14a6d2386ba091992d3749\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.2.0] F:\Android\.gradle\caches\transforms-2\files-2.1\4f3d7d743df13c1af889a0942a35670d\core-1.2.0\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:21:9-41
+	android:allowBackup
+		ADDED from [com.nhaarman.listviewanimations:lib-core:3.1.0] F:\Android\.gradle\caches\transforms-2\files-2.1\b96d5e896851a45c40c0d937bfa8d134\jetified-lib-core-3.1.0\AndroidManifest.xml:26:18-44
+	android:icon
+		ADDED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:20:9-42
+activity#net.micode.notes.MainActivity1111
+ADDED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:22:9-23:71
+	android:theme
+		ADDED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:23:13-69
+	android:name
+		ADDED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:22:19-51
+activity#net.micode.notes.MarkdownMainActivity
+ADDED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:24:9-26:76
+	android:configChanges
+		ADDED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:26:13-74
+	android:theme
+		ADDED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:25:13-69
+	android:name
+		ADDED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:24:19-55
+activity#net.micode.notes.ui.search.SearchActivity
+ADDED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:27:9-28:71
+	android:theme
+		ADDED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:28:13-69
+	android:name
+		ADDED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:27:19-59
+activity#net.micode.notes.ui.note.NoteActivity
+ADDED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:29:9-30:71
+	android:theme
+		ADDED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:30:13-69
+	android:name
+		ADDED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:29:19-55
+activity#net.micode.notes.activity.RegisterActivity
+ADDED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:31:9-32:71
+	android:theme
+		ADDED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:32:13-69
+	android:name
+		ADDED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:31:19-60
+activity#net.micode.notes.activity.LoginActivity
+ADDED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:33:9-36:15
+	android:theme
+		ADDED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:35:13-69
+	android:name
+		ADDED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:34:13-51
+activity#net.micode.notes.menu.menu
+ADDED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:37:9-39:72
+	android:theme
+		ADDED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:39:13-69
+	android:name
+		ADDED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:38:13-38
+activity#net.micode.notes.welcome.welcome
+ADDED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:40:9-48:20
+	android:theme
+		ADDED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:42:13-69
+	android:name
+		ADDED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:41:13-44
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:43:13-47:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:44:17-69
+	android:name
+		ADDED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:44:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:46:17-77
+	android:name
+		ADDED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:46:27-74
+activity#net.micode.notes.ui.NotesListActivity
+ADDED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:49:9-62:20
+	android:label
+		ADDED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:52:13-45
+	android:launchMode
+		ADDED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:53:13-43
+	android:windowSoftInputMode
+		ADDED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:56:13-52
+	android:uiOptions
+		ADDED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:55:13-57
+	android:configChanges
+		ADDED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:51:13-74
+	android:theme
+		ADDED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:54:13-45
+	android:name
+		ADDED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:50:13-49
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:57:13-61:29
+action#android.intent.action.VIEW
+ADDED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:58:17-69
+	android:name
+		ADDED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:58:25-66
+activity#net.micode.notes.me.aboutmeActivity
+ADDED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:63:9-71:20
+	android:theme
+		ADDED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:65:13-69
+	android:name
+		ADDED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:64:13-47
+activity#net.micode.notes.draw.drawActivity
+ADDED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:72:9-80:20
+	android:theme
+		ADDED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:74:13-69
+	android:name
+		ADDED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:73:13-46
+activity#net.micode.notes.ui.AttachmentActivity
+ADDED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:82:9-85:15
+	android:theme
+		ADDED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:84:13-45
+	android:name
+		ADDED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:83:13-50
+activity#net.micode.notes.ui.NoteEditActivity
+ADDED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:87:9-119:20
+	android:launchMode
+		ADDED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:90:13-43
+	android:configChanges
+		ADDED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:89:13-74
+	android:theme
+		ADDED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:91:13-45
+	android:name
+		ADDED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:88:13-48
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.DEFAULT+data:mimeType:vnd.android.cursor.item/call_note+data:mimeType:vnd.android.cursor.item/text_note
+ADDED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:92:13-101:29
+	android:scheme
+		ADDED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:93:17-38
+	tools:ignore
+		ADDED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:94:17-47
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:97:17-76
+	android:name
+		ADDED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:97:27-73
+data
+ADDED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:99:17-78
+	android:mimeType
+		ADDED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:99:23-75
+intent-filter#action:name:android.intent.action.INSERT_OR_EDIT+category:name:android.intent.category.DEFAULT+data:mimeType:vnd.android.cursor.item/call_note+data:mimeType:vnd.android.cursor.item/text_note
+ADDED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:102:13-109:29
+action#android.intent.action.INSERT_OR_EDIT
+ADDED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:103:17-79
+	android:name
+		ADDED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:103:25-76
+intent-filter#action:name:android.intent.action.SEARCH+category:name:android.intent.category.DEFAULT
+ADDED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:110:13-114:29
+action#android.intent.action.SEARCH
+ADDED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:111:17-71
+	android:name
+		ADDED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:111:25-68
+meta-data#android.app.searchable
+ADDED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:116:13-118:54
+	android:resource
+		ADDED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:118:17-51
+	android:name
+		ADDED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:117:17-54
+provider#net.micode.notes.data.NotesProvider
+ADDED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:121:9-124:43
+	android:authorities
+		ADDED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:123:13-47
+	android:multiprocess
+		ADDED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:124:13-40
+	android:name
+		ADDED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:122:13-47
+receiver#net.micode.notes.widget.NoteWidgetProvider_2x
+ADDED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:126:9-138:20
+	android:label
+		ADDED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:128:13-50
+	android:name
+		ADDED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:127:13-57
+intent-filter#action:name:android.appwidget.action.APPWIDGET_DELETED+action:name:android.appwidget.action.APPWIDGET_UPDATE+action:name:android.intent.action.PRIVACY_MODE_CHANGED
+ADDED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:129:13-133:29
+action#android.appwidget.action.APPWIDGET_UPDATE
+ADDED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:130:17-84
+	android:name
+		ADDED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:130:25-81
+action#android.appwidget.action.APPWIDGET_DELETED
+ADDED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:131:17-85
+	android:name
+		ADDED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:131:25-82
+action#android.intent.action.PRIVACY_MODE_CHANGED
+ADDED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:132:17-85
+	android:name
+		ADDED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:132:25-82
+meta-data#android.appwidget.provider
+ADDED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:135:13-137:58
+	android:resource
+		ADDED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:137:17-55
+	android:name
+		ADDED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:136:17-58
+receiver#net.micode.notes.widget.NoteWidgetProvider_4x
+ADDED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:139:9-151:20
+	android:label
+		ADDED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:141:13-50
+	android:name
+		ADDED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:140:13-57
+receiver#net.micode.notes.ui.AlarmInitReceiver
+ADDED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:152:9-156:20
+	android:name
+		ADDED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:152:19-55
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED
+ADDED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:153:13-155:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:154:17-79
+	android:name
+		ADDED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:154:25-76
+receiver#net.micode.notes.ui.AlarmReceiver
+ADDED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:157:9-159:41
+	android:process
+		ADDED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:159:13-38
+	android:name
+		ADDED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:158:13-45
+activity#net.micode.notes.ui.AlarmAlertActivity
+ADDED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:161:9-165:78
+	android:label
+		ADDED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:163:13-45
+	android:launchMode
+		ADDED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:164:13-48
+	android:theme
+		ADDED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:165:13-75
+	android:name
+		ADDED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:162:13-50
+activity#net.micode.notes.ui.NotesPreferenceActivity
+ADDED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:166:9-170:63
+	android:label
+		ADDED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:168:13-54
+	android:launchMode
+		ADDED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:169:13-43
+	android:theme
+		ADDED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:170:13-60
+	android:name
+		ADDED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:167:13-55
+service#net.micode.notes.gtask.remote.GTaskSyncService
+ADDED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:172:9-174:40
+	android:exported
+		ADDED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:174:13-37
+	android:name
+		ADDED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:173:13-58
+meta-data#android.app.default_searchable
+ADDED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:176:9-178:52
+	android:value
+		ADDED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:178:13-49
+	android:name
+		ADDED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:177:13-58
+uses-sdk
+INJECTED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml
+MERGED from [com.github.clans:fab:1.6.4] F:\Android\.gradle\caches\transforms-2\files-2.1\917c365cfe270a6608714e1dc12fa273\fab-1.6.4\AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.clans:fab:1.6.4] F:\Android\.gradle\caches\transforms-2\files-2.1\917c365cfe270a6608714e1dc12fa273\fab-1.6.4\AndroidManifest.xml:8:5-10:41
+MERGED from [com.nhaarman.listviewanimations:lib-core:3.1.0] F:\Android\.gradle\caches\transforms-2\files-2.1\b96d5e896851a45c40c0d937bfa8d134\jetified-lib-core-3.1.0\AndroidManifest.xml:22:5-24:41
+MERGED from [com.nhaarman.listviewanimations:lib-core:3.1.0] F:\Android\.gradle\caches\transforms-2\files-2.1\b96d5e896851a45c40c0d937bfa8d134\jetified-lib-core-3.1.0\AndroidManifest.xml:22:5-24:41
+MERGED from [com.nhaarman.listviewanimations:lib-manipulation:3.1.0] F:\Android\.gradle\caches\transforms-2\files-2.1\94154d80ad0c775370a93d2f88e1d6ee\jetified-lib-manipulation-3.1.0\AndroidManifest.xml:22:5-24:41
+MERGED from [com.nhaarman.listviewanimations:lib-manipulation:3.1.0] F:\Android\.gradle\caches\transforms-2\files-2.1\94154d80ad0c775370a93d2f88e1d6ee\jetified-lib-manipulation-3.1.0\AndroidManifest.xml:22:5-24:41
+MERGED from [com.nhaarman.listviewanimations:lib-core-slh:3.1.0] F:\Android\.gradle\caches\transforms-2\files-2.1\8d027b8baae36d95db577f1c7188a4cf\jetified-lib-core-slh-3.1.0\AndroidManifest.xml:22:5-24:41
+MERGED from [com.nhaarman.listviewanimations:lib-core-slh:3.1.0] F:\Android\.gradle\caches\transforms-2\files-2.1\8d027b8baae36d95db577f1c7188a4cf\jetified-lib-core-slh-3.1.0\AndroidManifest.xml:22:5-24:41
+MERGED from [com.google.android.material:material:1.2.0-alpha05] F:\Android\.gradle\caches\transforms-2\files-2.1\d356f7c579268d264f4d6ee0eb8734b3\material-1.2.0-alpha05\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.2.0-alpha05] F:\Android\.gradle\caches\transforms-2\files-2.1\d356f7c579268d264f4d6ee0eb8734b3\material-1.2.0-alpha05\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] F:\Android\.gradle\caches\transforms-2\files-2.1\780dca39713ff2fcf4eadcaf494ac982\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] F:\Android\.gradle\caches\transforms-2\files-2.1\780dca39713ff2fcf4eadcaf494ac982\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] F:\Android\.gradle\caches\transforms-2\files-2.1\213ad6fce5ea38e5799c707ff664b050\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] F:\Android\.gradle\caches\transforms-2\files-2.1\213ad6fce5ea38e5799c707ff664b050\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [org.litepal.android:java:3.0.0] F:\Android\.gradle\caches\transforms-2\files-2.1\e2f6338b8c2d8c374671452324227e55\java-3.0.0\AndroidManifest.xml:7:5-9:41
+MERGED from [org.litepal.android:java:3.0.0] F:\Android\.gradle\caches\transforms-2\files-2.1\e2f6338b8c2d8c374671452324227e55\java-3.0.0\AndroidManifest.xml:7:5-9:41
+MERGED from [org.litepal.android:core:3.0.0] F:\Android\.gradle\caches\transforms-2\files-2.1\76ceacb664b893e9359ce86ba14afd58\jetified-core-3.0.0\AndroidManifest.xml:7:5-9:41
+MERGED from [org.litepal.android:core:3.0.0] F:\Android\.gradle\caches\transforms-2\files-2.1\76ceacb664b893e9359ce86ba14afd58\jetified-core-3.0.0\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] F:\Android\.gradle\caches\transforms-2\files-2.1\5882865abf8e9a7b08118a41615cc7c9\lifecycle-extensions-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] F:\Android\.gradle\caches\transforms-2\files-2.1\5882865abf8e9a7b08118a41615cc7c9\lifecycle-extensions-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0-alpha03] F:\Android\.gradle\caches\transforms-2\files-2.1\d8e7efb05f7dfc5b87da947764833208\swiperefreshlayout-1.1.0-alpha03\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0-alpha03] F:\Android\.gradle\caches\transforms-2\files-2.1\d8e7efb05f7dfc5b87da947764833208\swiperefreshlayout-1.1.0-alpha03\AndroidManifest.xml:20:5-22:41
+MERGED from [de.hdodenhof:circleimageview:2.2.0] F:\Android\.gradle\caches\transforms-2\files-2.1\f3aad2cd5a6890036d9d0697655f846e\jetified-circleimageview-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:2.2.0] F:\Android\.gradle\caches\transforms-2\files-2.1\f3aad2cd5a6890036d9d0697655f846e\jetified-circleimageview-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:glide:4.8.0] F:\Android\.gradle\caches\transforms-2\files-2.1\ce6e488f2c83bc978c791f9dcc0191f9\jetified-glide-4.8.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.8.0] F:\Android\.gradle\caches\transforms-2\files-2.1\ce6e488f2c83bc978c791f9dcc0191f9\jetified-glide-4.8.0\AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] F:\Android\.gradle\caches\transforms-2\files-2.1\129d7c6539a600a7346451cc911530ca\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] F:\Android\.gradle\caches\transforms-2\files-2.1\129d7c6539a600a7346451cc911530ca\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] F:\Android\.gradle\caches\transforms-2\files-2.1\82e63553b4b022cfff1711ae9819aad4\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] F:\Android\.gradle\caches\transforms-2\files-2.1\82e63553b4b022cfff1711ae9819aad4\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] F:\Android\.gradle\caches\transforms-2\files-2.1\727f4567341fcf59ba6ec2fbb4290436\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] F:\Android\.gradle\caches\transforms-2\files-2.1\727f4567341fcf59ba6ec2fbb4290436\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] F:\Android\.gradle\caches\transforms-2\files-2.1\43d28a6cb6aa3ef105d8e111681e9af4\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] F:\Android\.gradle\caches\transforms-2\files-2.1\43d28a6cb6aa3ef105d8e111681e9af4\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] F:\Android\.gradle\caches\transforms-2\files-2.1\1296f14384128f2399538597cc1f5274\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] F:\Android\.gradle\caches\transforms-2\files-2.1\1296f14384128f2399538597cc1f5274\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] F:\Android\.gradle\caches\transforms-2\files-2.1\89148e3dbb2482b98d2c6649d887f30f\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] F:\Android\.gradle\caches\transforms-2\files-2.1\89148e3dbb2482b98d2c6649d887f30f\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] F:\Android\.gradle\caches\transforms-2\files-2.1\a8ecbda6ffad5e6f54ae110042f6865e\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] F:\Android\.gradle\caches\transforms-2\files-2.1\a8ecbda6ffad5e6f54ae110042f6865e\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] F:\Android\.gradle\caches\transforms-2\files-2.1\1fa276bd61947c3e74ed195b3ad0a13b\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] F:\Android\.gradle\caches\transforms-2\files-2.1\1fa276bd61947c3e74ed195b3ad0a13b\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.0] F:\Android\.gradle\caches\transforms-2\files-2.1\a634c03550c7f87f645ad54e16bbb4d1\fragment-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.0] F:\Android\.gradle\caches\transforms-2\files-2.1\a634c03550c7f87f645ad54e16bbb4d1\fragment-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] F:\Android\.gradle\caches\transforms-2\files-2.1\c85e1f195321245fafe1a599b5dddf47\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] F:\Android\.gradle\caches\transforms-2\files-2.1\c85e1f195321245fafe1a599b5dddf47\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] F:\Android\.gradle\caches\transforms-2\files-2.1\1aafd20561bc3ee9f58c28dfa8215062\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] F:\Android\.gradle\caches\transforms-2\files-2.1\1aafd20561bc3ee9f58c28dfa8215062\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] F:\Android\.gradle\caches\transforms-2\files-2.1\da4859f2c8e5d53f282ea268af4c5fee\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] F:\Android\.gradle\caches\transforms-2\files-2.1\da4859f2c8e5d53f282ea268af4c5fee\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] F:\Android\.gradle\caches\transforms-2\files-2.1\3a40d00373143d317b2bee08071df362\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] F:\Android\.gradle\caches\transforms-2\files-2.1\3a40d00373143d317b2bee08071df362\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.1.0] F:\Android\.gradle\caches\transforms-2\files-2.1\41b8d659a9b5777956384975cf9ebd42\jetified-activity-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] F:\Android\.gradle\caches\transforms-2\files-2.1\41b8d659a9b5777956384975cf9ebd42\jetified-activity-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.2.0] F:\Android\.gradle\caches\transforms-2\files-2.1\4f3d7d743df13c1af889a0942a35670d\core-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.2.0] F:\Android\.gradle\caches\transforms-2\files-2.1\4f3d7d743df13c1af889a0942a35670d\core-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] F:\Android\.gradle\caches\transforms-2\files-2.1\f52122426ed85128097908a2e58f6328\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] F:\Android\.gradle\caches\transforms-2\files-2.1\f52122426ed85128097908a2e58f6328\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] F:\Android\.gradle\caches\transforms-2\files-2.1\fa07a23f69071fa73b12f39bbc5eac81\lifecycle-process-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] F:\Android\.gradle\caches\transforms-2\files-2.1\fa07a23f69071fa73b12f39bbc5eac81\lifecycle-process-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] F:\Android\.gradle\caches\transforms-2\files-2.1\67046010035515f936d914e446b8511c\lifecycle-service-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] F:\Android\.gradle\caches\transforms-2\files-2.1\67046010035515f936d914e446b8511c\lifecycle-service-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] F:\Android\.gradle\caches\transforms-2\files-2.1\8b5e123a9c5293fd4e2ed3fcf992930f\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] F:\Android\.gradle\caches\transforms-2\files-2.1\8b5e123a9c5293fd4e2ed3fcf992930f\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] F:\Android\.gradle\caches\transforms-2\files-2.1\de7fec5c2bc02b5a4a193e3ed3cbac37\lifecycle-livedata-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] F:\Android\.gradle\caches\transforms-2\files-2.1\de7fec5c2bc02b5a4a193e3ed3cbac37\lifecycle-livedata-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:1.0.0] F:\Android\.gradle\caches\transforms-2\files-2.1\b11a471951626f0994c6f77cfd7b3fe7\lifecycle-viewmodel-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:1.0.0] F:\Android\.gradle\caches\transforms-2\files-2.1\b11a471951626f0994c6f77cfd7b3fe7\lifecycle-viewmodel-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] F:\Android\.gradle\caches\transforms-2\files-2.1\b7f3f626304196e508da96b58da55c51\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] F:\Android\.gradle\caches\transforms-2\files-2.1\b7f3f626304196e508da96b58da55c51\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] F:\Android\.gradle\caches\transforms-2\files-2.1\8459cf74267acbf7bf85dca1ef465d1f\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] F:\Android\.gradle\caches\transforms-2\files-2.1\8459cf74267acbf7bf85dca1ef465d1f\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] F:\Android\.gradle\caches\transforms-2\files-2.1\bf72a15a3ccfe7bc47129422d9cddb0c\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] F:\Android\.gradle\caches\transforms-2\files-2.1\bf72a15a3ccfe7bc47129422d9cddb0c\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] F:\Android\.gradle\caches\transforms-2\files-2.1\3e0dd008a853f1a70d3d0f68ab22c9b7\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] F:\Android\.gradle\caches\transforms-2\files-2.1\3e0dd008a853f1a70d3d0f68ab22c9b7\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] F:\Android\.gradle\caches\transforms-2\files-2.1\2c4abb3c9f84da22a9da11e175a85c23\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] F:\Android\.gradle\caches\transforms-2\files-2.1\2c4abb3c9f84da22a9da11e175a85c23\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] F:\Android\.gradle\caches\transforms-2\files-2.1\a51a24fb531d8e9d5c26de388f6294e6\jetified-gifdecoder-4.8.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] F:\Android\.gradle\caches\transforms-2\files-2.1\a51a24fb531d8e9d5c26de388f6294e6\jetified-gifdecoder-4.8.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] F:\Android\.gradle\caches\transforms-2\files-2.1\fa40148eab14a6d2386ba091992d3749\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] F:\Android\.gradle\caches\transforms-2\files-2.1\fa40148eab14a6d2386ba091992d3749\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] F:\Android\.gradle\caches\transforms-2\files-2.1\a77c810a56173ccf6fb339f045a6aacd\annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] F:\Android\.gradle\caches\transforms-2\files-2.1\a77c810a56173ccf6fb339f045a6aacd\annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml
+activity#com.nhaarman.listviewanimations.itemmanipulation.swipedismiss.SwipeTouchListenerTestActivity
+ADDED from [com.nhaarman.listviewanimations:lib-manipulation:3.1.0] F:\Android\.gradle\caches\transforms-2\files-2.1\94154d80ad0c775370a93d2f88e1d6ee\jetified-lib-manipulation-3.1.0\AndroidManifest.xml:27:9-129
+	android:name
+		ADDED from [com.nhaarman.listviewanimations:lib-manipulation:3.1.0] F:\Android\.gradle\caches\transforms-2\files-2.1\94154d80ad0c775370a93d2f88e1d6ee\jetified-lib-manipulation-3.1.0\AndroidManifest.xml:27:19-126
+activity#com.nhaarman.listviewanimations.itemmanipulation.dragdrop.DynamicListViewTestActivity
+ADDED from [com.nhaarman.listviewanimations:lib-manipulation:3.1.0] F:\Android\.gradle\caches\transforms-2\files-2.1\94154d80ad0c775370a93d2f88e1d6ee\jetified-lib-manipulation-3.1.0\AndroidManifest.xml:28:9-122
+	android:name
+		ADDED from [com.nhaarman.listviewanimations:lib-manipulation:3.1.0] F:\Android\.gradle\caches\transforms-2\files-2.1\94154d80ad0c775370a93d2f88e1d6ee\jetified-lib-manipulation-3.1.0\AndroidManifest.xml:28:19-119
+provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] F:\Android\.gradle\caches\transforms-2\files-2.1\fa07a23f69071fa73b12f39bbc5eac81\lifecycle-process-2.2.0\AndroidManifest.xml:25:9-29:43
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] F:\Android\.gradle\caches\transforms-2\files-2.1\fa07a23f69071fa73b12f39bbc5eac81\lifecycle-process-2.2.0\AndroidManifest.xml:27:13-69
+	android:multiprocess
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] F:\Android\.gradle\caches\transforms-2\files-2.1\fa07a23f69071fa73b12f39bbc5eac81\lifecycle-process-2.2.0\AndroidManifest.xml:29:13-40
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] F:\Android\.gradle\caches\transforms-2\files-2.1\fa07a23f69071fa73b12f39bbc5eac81\lifecycle-process-2.2.0\AndroidManifest.xml:28:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] F:\Android\.gradle\caches\transforms-2\files-2.1\fa07a23f69071fa73b12f39bbc5eac81\lifecycle-process-2.2.0\AndroidManifest.xml:26:13-79

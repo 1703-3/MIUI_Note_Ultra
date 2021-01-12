@@ -1,0 +1,23 @@
+<component name="libraryTable">
+  <library name="Gradle: com.nhaarman.listviewanimations:lib-core:3.1.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/950016a24dc46e6a452feb5bc538efc4/jetified-lib-core-3.1.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/950016a24dc46e6a452feb5bc538efc4/jetified-lib-core-3.1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/950016a24dc46e6a452feb5bc538efc4/jetified-lib-core-3.1.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2f1c77c75ebc2b1d1a03415f12003e81/jetified-lib-core-3.1.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2f1c77c75ebc2b1d1a03415f12003e81/jetified-lib-core-3.1.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2f1c77c75ebc2b1d1a03415f12003e81/jetified-lib-core-3.1.0/jars/classes.jar!/" />
+      <root url="jar://F:/Android/.gradle/caches/transforms-2/files-2.1/b96d5e896851a45c40c0d937bfa8d134/jetified-lib-core-3.1.0/jars/classes.jar!/" />
+      <root url="file://F:/Android/.gradle/caches/transforms-2/files-2.1/b96d5e896851a45c40c0d937bfa8d134/jetified-lib-core-3.1.0/AndroidManifest.xml" />
+      <root url="file://F:/Android/.gradle/caches/transforms-2/files-2.1/b96d5e896851a45c40c0d937bfa8d134/jetified-lib-core-3.1.0/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.nhaarman.listviewanimations/lib-core/3.1.0/53b871fe57ddfbfa34eef686b392c99b3d787e0c/lib-core-3.1.0-javadoc.jar!/" />
+      <root url="jar://F:/Android/.gradle/caches/modules-2/files-2.1/com.nhaarman.listviewanimations/lib-core/3.1.0/53b871fe57ddfbfa34eef686b392c99b3d787e0c/lib-core-3.1.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.nhaarman.listviewanimations/lib-core/3.1.0/1fdff7613cf40e25a537d699c89909df48ace30a/lib-core-3.1.0-sources.jar!/" />
+      <root url="jar://F:/Android/.gradle/caches/modules-2/files-2.1/com.nhaarman.listviewanimations/lib-core/3.1.0/1fdff7613cf40e25a537d699c89909df48ace30a/lib-core-3.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

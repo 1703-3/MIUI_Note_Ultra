@@ -1,0 +1,23 @@
+<component name="libraryTable">
+  <library name="Gradle: com.nhaarman.listviewanimations:lib-core-slh:3.1.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/75a0c3201d86f4eab73f1353fd1b6dd2/jetified-lib-core-slh-3.1.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/75a0c3201d86f4eab73f1353fd1b6dd2/jetified-lib-core-slh-3.1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/75a0c3201d86f4eab73f1353fd1b6dd2/jetified-lib-core-slh-3.1.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/81a3c29565426a2a0c8b1bca962c6d09/jetified-lib-core-slh-3.1.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/81a3c29565426a2a0c8b1bca962c6d09/jetified-lib-core-slh-3.1.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/81a3c29565426a2a0c8b1bca962c6d09/jetified-lib-core-slh-3.1.0/AndroidManifest.xml" />
+      <root url="jar://F:/Android/.gradle/caches/transforms-2/files-2.1/8d027b8baae36d95db577f1c7188a4cf/jetified-lib-core-slh-3.1.0/jars/classes.jar!/" />
+      <root url="file://F:/Android/.gradle/caches/transforms-2/files-2.1/8d027b8baae36d95db577f1c7188a4cf/jetified-lib-core-slh-3.1.0/res" />
+      <root url="file://F:/Android/.gradle/caches/transforms-2/files-2.1/8d027b8baae36d95db577f1c7188a4cf/jetified-lib-core-slh-3.1.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.nhaarman.listviewanimations/lib-core-slh/3.1.0/45e247b70497b1d12d1c382768d7f50dcb24b57c/lib-core-slh-3.1.0-javadoc.jar!/" />
+      <root url="jar://F:/Android/.gradle/caches/modules-2/files-2.1/com.nhaarman.listviewanimations/lib-core-slh/3.1.0/45e247b70497b1d12d1c382768d7f50dcb24b57c/lib-core-slh-3.1.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.nhaarman.listviewanimations/lib-core-slh/3.1.0/34e3bf7a66ed4ac020a2f5adc086586ab8a1823a/lib-core-slh-3.1.0-sources.jar!/" />
+      <root url="jar://F:/Android/.gradle/caches/modules-2/files-2.1/com.nhaarman.listviewanimations/lib-core-slh/3.1.0/34e3bf7a66ed4ac020a2f5adc086586ab8a1823a/lib-core-slh-3.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

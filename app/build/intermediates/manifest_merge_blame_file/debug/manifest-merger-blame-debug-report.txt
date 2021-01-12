@@ -1,0 +1,380 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="net.micode.notes"
+4    android:versionCode="1"
+5    android:versionName="0.1" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+8-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="28" />
+9-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+11-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:8:5-81
+11-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:8:22-78
+12    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+12-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:9:5-80
+12-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:9:22-77
+13    <uses-permission android:name="com.android.launcher.permission.INSTALL_SHORTCUT" />
+13-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:10:5-88
+13-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:10:22-85
+14    <uses-permission android:name="android.permission.INTERNET" />
+14-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:11:5-67
+14-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:11:22-64
+15    <uses-permission android:name="android.permission.READ_CONTACTS" />
+15-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:12:5-72
+15-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:12:22-69
+16    <uses-permission android:name="android.permission.MANAGE_ACCOUNTS" />
+16-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:13:5-74
+16-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:13:22-71
+17    <uses-permission android:name="android.permission.AUTHENTICATE_ACCOUNTS" />
+17-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:14:5-80
+17-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:14:22-77
+18    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+18-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:15:5-71
+18-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:15:22-68
+19    <uses-permission android:name="android.permission.USE_CREDENTIALS" />
+19-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:16:5-74
+19-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:16:22-71
+20    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+20-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:17:5-81
+20-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:17:22-78
+21
+22    <application
+22-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:19:5-179:19
+23        android:allowBackup="true"
+23-->[com.nhaarman.listviewanimations:lib-core:3.1.0] F:\Android\.gradle\caches\transforms-2\files-2.1\b96d5e896851a45c40c0d937bfa8d134\jetified-lib-core-3.1.0\AndroidManifest.xml:26:18-44
+24        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+24-->[androidx.core:core:1.2.0] F:\Android\.gradle\caches\transforms-2\files-2.1\4f3d7d743df13c1af889a0942a35670d\core-1.2.0\AndroidManifest.xml:24:18-86
+25        android:debuggable="true"
+26        android:icon="@drawable/icon_app"
+26-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:20:9-42
+27        android:label="@string/app_name"
+27-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:21:9-41
+28        android:testOnly="true" >
+29        <activity
+29-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:22:9-23:71
+30            android:name="net.micode.notes.MainActivity1111"
+30-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:22:19-51
+31            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+31-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:23:13-69
+32        <activity
+32-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:24:9-26:76
+33            android:name="net.micode.notes.MarkdownMainActivity"
+33-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:24:19-55
+34            android:configChanges="orientation|keyboardHidden|screenSize"
+34-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:26:13-74
+35            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+35-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:25:13-69
+36        <activity
+36-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:27:9-28:71
+37            android:name="net.micode.notes.ui.search.SearchActivity"
+37-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:27:19-59
+38            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+38-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:28:13-69
+39        <activity
+39-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:29:9-30:71
+40            android:name="net.micode.notes.ui.note.NoteActivity"
+40-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:29:19-55
+41            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+41-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:30:13-69
+42        <activity
+42-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:31:9-32:71
+43            android:name="net.micode.notes.activity.RegisterActivity"
+43-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:31:19-60
+44            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+44-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:32:13-69
+45        <activity
+45-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:33:9-36:15
+46            android:name="net.micode.notes.activity.LoginActivity"
+46-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:34:13-51
+47            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+47-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:35:13-69
+48        <activity
+48-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:37:9-39:72
+49            android:name="net.micode.notes.menu.menu"
+49-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:38:13-38
+50            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+50-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:39:13-69
+51        <activity
+51-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:40:9-48:20
+52            android:name="net.micode.notes.welcome.welcome"
+52-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:41:13-44
+53            android:theme="@style/Theme.AppCompat.Light.NoActionBar" >
+53-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:42:13-69
+54            <intent-filter>
+54-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:43:13-47:29
+55                <action android:name="android.intent.action.MAIN" />
+55-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:44:17-69
+55-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:44:25-66
+56
+57                <category android:name="android.intent.category.LAUNCHER" />
+57-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:46:17-77
+57-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:46:27-74
+58            </intent-filter>
+59        </activity>
+60        <activity
+60-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:49:9-62:20
+61            android:name="net.micode.notes.ui.NotesListActivity"
+61-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:50:13-49
+62            android:configChanges="keyboardHidden|orientation|screenSize"
+62-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:51:13-74
+63            android:label="@string/app_name"
+63-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:52:13-45
+64            android:launchMode="singleTop"
+64-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:53:13-43
+65            android:theme="@style/NoteTheme"
+65-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:54:13-45
+66            android:uiOptions="splitActionBarWhenNarrow"
+66-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:55:13-57
+67            android:windowSoftInputMode="adjustPan" >
+67-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:56:13-52
+68            <intent-filter>
+68-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:57:13-61:29
+69                <action android:name="android.intent.action.VIEW" />
+69-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:58:17-69
+69-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:58:25-66
+70
+71                <category android:name="android.intent.category.LAUNCHER" />
+71-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:46:17-77
+71-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:46:27-74
+72            </intent-filter>
+73        </activity>
+74        <activity
+74-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:63:9-71:20
+75            android:name="net.micode.notes.me.aboutmeActivity"
+75-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:64:13-47
+76            android:theme="@style/Theme.AppCompat.Light.NoActionBar" >
+76-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:65:13-69
+77            <intent-filter>
+77-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:57:13-61:29
+78                <action android:name="android.intent.action.VIEW" />
+78-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:58:17-69
+78-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:58:25-66
+79
+80                <category android:name="android.intent.category.LAUNCHER" />
+80-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:46:17-77
+80-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:46:27-74
+81            </intent-filter>
+82        </activity>
+83        <activity
+83-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:72:9-80:20
+84            android:name="net.micode.notes.draw.drawActivity"
+84-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:73:13-46
+85            android:theme="@style/Theme.AppCompat.Light.NoActionBar" >
+85-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:74:13-69
+86            <intent-filter>
+86-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:57:13-61:29
+87                <action android:name="android.intent.action.VIEW" />
+87-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:58:17-69
+87-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:58:25-66
+88
+89                <category android:name="android.intent.category.LAUNCHER" />
+89-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:46:17-77
+89-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:46:27-74
+90            </intent-filter>
+91        </activity>
+92        <activity
+92-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:82:9-85:15
+93            android:name="net.micode.notes.ui.AttachmentActivity"
+93-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:83:13-50
+94            android:theme="@style/NoteTheme" />
+94-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:84:13-45
+95        <activity
+95-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:87:9-119:20
+96            android:name="net.micode.notes.ui.NoteEditActivity"
+96-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:88:13-48
+97            android:configChanges="keyboardHidden|orientation|screenSize"
+97-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:89:13-74
+98            android:launchMode="singleTop"
+98-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:90:13-43
+99            android:theme="@style/NoteTheme" >
+99-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:91:13-45
+100            <intent-filter android:scheme="http" >
+100-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:92:13-101:29
+100-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:93:17-38
+101                <action android:name="android.intent.action.VIEW" />
+101-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:58:17-69
+101-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:58:25-66
+102
+103                <category android:name="android.intent.category.DEFAULT" />
+103-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:97:17-76
+103-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:97:27-73
+104
+105                <data android:mimeType="vnd.android.cursor.item/text_note" />
+105-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:99:17-78
+105-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:99:23-75
+106                <data android:mimeType="vnd.android.cursor.item/call_note" />
+106-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:99:17-78
+106-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:99:23-75
+107            </intent-filter>
+108            <intent-filter>
+108-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:102:13-109:29
+109                <action android:name="android.intent.action.INSERT_OR_EDIT" />
+109-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:103:17-79
+109-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:103:25-76
+110
+111                <category android:name="android.intent.category.DEFAULT" />
+111-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:97:17-76
+111-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:97:27-73
+112
+113                <data android:mimeType="vnd.android.cursor.item/text_note" />
+113-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:99:17-78
+113-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:99:23-75
+114                <data android:mimeType="vnd.android.cursor.item/call_note" />
+114-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:99:17-78
+114-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:99:23-75
+115            </intent-filter>
+116            <intent-filter>
+116-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:110:13-114:29
+117                <action android:name="android.intent.action.SEARCH" />
+117-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:111:17-71
+117-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:111:25-68
+118
+119                <category android:name="android.intent.category.DEFAULT" />
+119-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:97:17-76
+119-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:97:27-73
+120            </intent-filter>
+121
+122            <meta-data
+122-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:116:13-118:54
+123                android:name="android.app.searchable"
+123-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:117:17-54
+124                android:resource="@xml/searchable" />
+124-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:118:17-51
+125        </activity>
+126
+127        <provider
+127-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:121:9-124:43
+128            android:name="net.micode.notes.data.NotesProvider"
+128-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:122:13-47
+129            android:authorities="micode_notes"
+129-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:123:13-47
+130            android:multiprocess="true" />
+130-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:124:13-40
+131
+132        <receiver
+132-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:126:9-138:20
+133            android:name="net.micode.notes.widget.NoteWidgetProvider_2x"
+133-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:127:13-57
+134            android:label="@string/app_widget2x2" >
+134-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:128:13-50
+135            <intent-filter>
+135-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:129:13-133:29
+136                <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
+136-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:130:17-84
+136-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:130:25-81
+137                <action android:name="android.appwidget.action.APPWIDGET_DELETED" />
+137-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:131:17-85
+137-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:131:25-82
+138                <action android:name="android.intent.action.PRIVACY_MODE_CHANGED" />
+138-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:132:17-85
+138-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:132:25-82
+139            </intent-filter>
+140
+141            <meta-data
+141-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:135:13-137:58
+142                android:name="android.appwidget.provider"
+142-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:136:17-58
+143                android:resource="@xml/widget_2x_info" />
+143-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:137:17-55
+144        </receiver>
+145        <receiver
+145-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:139:9-151:20
+146            android:name="net.micode.notes.widget.NoteWidgetProvider_4x"
+146-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:140:13-57
+147            android:label="@string/app_widget4x4" >
+147-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:141:13-50
+148            <intent-filter>
+148-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:129:13-133:29
+149                <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
+149-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:130:17-84
+149-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:130:25-81
+150                <action android:name="android.appwidget.action.APPWIDGET_DELETED" />
+150-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:131:17-85
+150-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:131:25-82
+151                <action android:name="android.intent.action.PRIVACY_MODE_CHANGED" />
+151-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:132:17-85
+151-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:132:25-82
+152            </intent-filter>
+153
+154            <meta-data
+154-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:135:13-137:58
+155                android:name="android.appwidget.provider"
+155-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:136:17-58
+156                android:resource="@xml/widget_4x_info" />
+156-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:137:17-55
+157        </receiver>
+158        <receiver android:name="net.micode.notes.ui.AlarmInitReceiver" >
+158-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:152:9-156:20
+158-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:152:19-55
+159            <intent-filter>
+159-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:153:13-155:29
+160                <action android:name="android.intent.action.BOOT_COMPLETED" />
+160-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:154:17-79
+160-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:154:25-76
+161            </intent-filter>
+162        </receiver>
+163        <receiver
+163-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:157:9-159:41
+164            android:name="net.micode.notes.ui.AlarmReceiver"
+164-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:158:13-45
+165            android:process=":remote" />
+165-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:159:13-38
+166
+167        <activity
+167-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:161:9-165:78
+168            android:name="net.micode.notes.ui.AlarmAlertActivity"
+168-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:162:13-50
+169            android:label="@string/app_name"
+169-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:163:13-45
+170            android:launchMode="singleInstance"
+170-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:164:13-48
+171            android:theme="@android:style/Theme.Holo.Wallpaper.NoTitleBar" />
+171-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:165:13-75
+172        <activity
+172-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:166:9-170:63
+173            android:name="net.micode.notes.ui.NotesPreferenceActivity"
+173-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:167:13-55
+174            android:label="@string/preferences_title"
+174-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:168:13-54
+175            android:launchMode="singleTop"
+175-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:169:13-43
+176            android:theme="@android:style/Theme.Holo.Light" />
+176-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:170:13-60
+177
+178        <service
+178-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:172:9-174:40
+179            android:name="net.micode.notes.gtask.remote.GTaskSyncService"
+179-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:173:13-58
+180            android:exported="false" />
+180-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:174:13-37
+181
+182        <meta-data
+182-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:176:9-178:52
+183            android:name="android.app.default_searchable"
+183-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:177:13-58
+184            android:value=".ui.NoteEditActivity" />
+184-->C:\Users\zhouq\Desktop\MIUI__Note_Ultraa\app\src\main\AndroidManifest.xml:178:13-49
+185
+186        <activity android:name="com.nhaarman.listviewanimations.itemmanipulation.swipedismiss.SwipeTouchListenerTestActivity" />
+186-->[com.nhaarman.listviewanimations:lib-manipulation:3.1.0] F:\Android\.gradle\caches\transforms-2\files-2.1\94154d80ad0c775370a93d2f88e1d6ee\jetified-lib-manipulation-3.1.0\AndroidManifest.xml:27:9-129
+186-->[com.nhaarman.listviewanimations:lib-manipulation:3.1.0] F:\Android\.gradle\caches\transforms-2\files-2.1\94154d80ad0c775370a93d2f88e1d6ee\jetified-lib-manipulation-3.1.0\AndroidManifest.xml:27:19-126
+187        <activity android:name="com.nhaarman.listviewanimations.itemmanipulation.dragdrop.DynamicListViewTestActivity" />
+187-->[com.nhaarman.listviewanimations:lib-manipulation:3.1.0] F:\Android\.gradle\caches\transforms-2\files-2.1\94154d80ad0c775370a93d2f88e1d6ee\jetified-lib-manipulation-3.1.0\AndroidManifest.xml:28:9-122
+187-->[com.nhaarman.listviewanimations:lib-manipulation:3.1.0] F:\Android\.gradle\caches\transforms-2\files-2.1\94154d80ad0c775370a93d2f88e1d6ee\jetified-lib-manipulation-3.1.0\AndroidManifest.xml:28:19-119
+188
+189        <provider
+189-->[androidx.lifecycle:lifecycle-process:2.2.0] F:\Android\.gradle\caches\transforms-2\files-2.1\fa07a23f69071fa73b12f39bbc5eac81\lifecycle-process-2.2.0\AndroidManifest.xml:25:9-29:43
+190            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+190-->[androidx.lifecycle:lifecycle-process:2.2.0] F:\Android\.gradle\caches\transforms-2\files-2.1\fa07a23f69071fa73b12f39bbc5eac81\lifecycle-process-2.2.0\AndroidManifest.xml:26:13-79
+191            android:authorities="net.micode.notes.lifecycle-process"
+191-->[androidx.lifecycle:lifecycle-process:2.2.0] F:\Android\.gradle\caches\transforms-2\files-2.1\fa07a23f69071fa73b12f39bbc5eac81\lifecycle-process-2.2.0\AndroidManifest.xml:27:13-69
+192            android:exported="false"
+192-->[androidx.lifecycle:lifecycle-process:2.2.0] F:\Android\.gradle\caches\transforms-2\files-2.1\fa07a23f69071fa73b12f39bbc5eac81\lifecycle-process-2.2.0\AndroidManifest.xml:28:13-37
+193            android:multiprocess="true" />
+193-->[androidx.lifecycle:lifecycle-process:2.2.0] F:\Android\.gradle\caches\transforms-2\files-2.1\fa07a23f69071fa73b12f39bbc5eac81\lifecycle-process-2.2.0\AndroidManifest.xml:29:13-40
+194    </application>
+195
+196</manifest>

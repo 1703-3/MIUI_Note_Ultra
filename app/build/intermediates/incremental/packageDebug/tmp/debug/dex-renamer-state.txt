@@ -1,0 +1,4 @@
+#Tue Jan 12 16:23:39 CST 2021
+base.0=C\:\\Users\\zhouq\\Desktop\\MIUI__Note_Ultraa\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
